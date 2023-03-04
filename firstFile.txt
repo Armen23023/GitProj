@@ -1,7 +1,7 @@
 Hi
 Armen
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
+Hello
+World
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
